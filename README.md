@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 👋 Hi there! I'm a CSE student passionate about AI, ML, and Android development. Currently, I'm participating in **GirlScript Summer of Code (GSSoC '24)** to improve my open-source contributions and expand my skills.
 
 **Connect with me**:
-- LinkedIn(https://www.linkedin.com/in/gubbala-varsha-554663248/)
+- LinkedIn(https://www.linkedin.com/in/varsha-gubbala-554663248/)
 - Email(varsha.gubbala@gmail.com)
 
 ---
